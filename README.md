@@ -1,1 +1,2 @@
 # amcat
+Preparation of test
